@@ -18,4 +18,22 @@
   
   <img width="1000" height="1000" alt="Screenshot 2026-02-08 101940" src="https://github.com/user-attachments/assets/58fe9e8f-fd1e-474e-8cae-65f731674572" />
 
+# 4. How does WEB WORKS behind the Scences ? 
+  In simple words , If we say how web works behind the scenes .. the ans should be via Request <-> Response Model or the Client-Server Architechture where the Client sends some request from the Web to the Server 
+  where it is hosted . 
   
+  <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/a055833d-ddfb-4ce3-8096-853917664088" />
+  
+  Every URL ( has its domain name : eg : www.google.com ) , where the URL is sent to the DNS Server at first which contains the IP ADDRESS of the URL . After the IP ADDRESS , is fetched successfully from the 
+  DNS Server => a TCP /IP Connection is setup between the CLIENT and the SERVER . This TCP connection decides how the data would be shared over Internet . After that REQUEST is sent from the CLIENT side to 
+  SERVER side through HTTP / HTTPS protocols .
+  
+  <img width="500" height="500" alt="Screenshot 2026-02-08 113210" src="https://github.com/user-attachments/assets/f6ab86ec-7a09-4433-bca7-de61588877ad" />
+
+  How the TCP Protocol transfers the Request and Response data over the internet = > TCP breaks the entire request / response data into 1000's small chunks called packets and these small packets travel over the 
+  internet through different routes and all these packets are assembled together before reaching the destination by the TCP .
+  
+  <img width="1920" height="1080" alt="Screenshot 2026-02-08 115153" src="https://github.com/user-attachments/assets/52b3268d-6bf0-4e95-aae3-052b63806321" />
+
+
+ 

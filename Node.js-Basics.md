@@ -36,4 +36,22 @@
   <img width="1920" height="1080" alt="Screenshot 2026-02-08 115153" src="https://github.com/user-attachments/assets/52b3268d-6bf0-4e95-aae3-052b63806321" />
 
 
- 
+ # 5. How does Client side and Server side rendering differs ? What is Static vs Dynamic vs API Rendered Websites ? 
+
+  Client side rendering occurs in case of API rendered Websites , where the browser renders the pages of the website based on the response from the SERVER ( json response from API ) 
+  whereas in case of the server side rendering , the rendering is also done from the server side based on the data logic and the Rendering Template . 
+
+  Server side Rendering : 
+  
+  <img width="500" height="500" alt="Screenshot 2026-02-15 114510" src="https://github.com/user-attachments/assets/882cdd88-665e-4fa8-92bc-12b145d65fcf" />
+
+  Client Side Rendering : 
+
+  <img width="500" height="500" alt="Screenshot 2026-02-15 114604" src="https://github.com/user-attachments/assets/55e4ba48-7cd5-41d7-ab9d-f40303ef893a" />
+
+  Difference between Static vs Dynamic vs API rendered : 
+
+  <img width="500" height="500" alt="Screenshot 2026-02-15 114648" src="https://github.com/user-attachments/assets/4ccc0de4-7514-4d3e-ae0e-2bb992570ce9" />
+
+
+
